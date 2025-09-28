@@ -23,16 +23,9 @@ The repository is divided into two parts:
 ---
 
 ## Repository Structure
-GoIT-my-first-project/
-├─ dbeaver_ads/ # SQL queries and results for Ads dataset
-│ ├─ .sql
-│ └─ outputs/.csv
-├─ bigquery/ # SQL queries and results for GA4 dataset
-│ ├─ .sql
-│ └─ outputs/.csv
-├─ README.md
-├─ LICENSE
-└─ .gitignore
+<pre> ```text GoIT-my-first-project/ ├─ dbeaver_ads/ # SQL queries and results for Ads dataset │ ├─ *.sql │ └─ outputs/*.csv ├─ bigquery/ # SQL queries and results for GA4 dataset │ ├─ *.sql │ └─ outputs/*.csv ├─ README.md ├─ LICENSE └─ .gitignore ``` </pre>
+
+
 
 ⚠️ Note: CSV files may contain only partial outputs (sample rows).  
 Full results can be reproduced by running the SQL queries on the source datasets.
