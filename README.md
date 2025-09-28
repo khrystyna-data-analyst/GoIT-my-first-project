@@ -84,10 +84,10 @@ Full results can be reproduced by running the SQL queries on the source datasets
 
 
 ### BigQuery Saved Queries
-- Task 2 — [Open in BigQuery]([https://console.cloud.google.com/bigquery?savedQuery=XXXX](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sstoried-pixel-469204-d9!2sus-central1!3sf40e7127-f51d-49f6-b931-6e0e14c6607f!2e1))
-- Task 3 — [Open in BigQuery]([https://console.cloud.google.com/bigquery?savedQuery=YYYY](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sstoried-pixel-469204-d9!2sus-central1!3sce17fffe-b19b-4eec-92c6-11d6c3d619aa!2e1))
-- Task 4 — [Open in BigQuery]([https://console.cloud.google.com/bigquery?savedQuery=ZZZZ](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sstoried-pixel-469204-d9!2sus-central1!3s5ed2029e-c512-47cc-98aa-aa74656c62aa!2e1))
-- Task 5 — [Open in BigQuery]([https://console.cloud.google.com/bigquery?savedQuery=WWWW](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sstoried-pixel-469204-d9!2sus-central1!3sf3f72518-f171-41a1-928a-21a982a210c2!2e1))
+- Task 2 — [Open in BigQuery]([https://console.cloud.google.com/bigquery?savedQuery=XXXX](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sstoried-pixel-469204-d9!2sus-central1!3sf40e7127-f51d-49f6-b931-6e0e14c6607f!2e1)
+- Task 3 — [Open in BigQuery]([https://console.cloud.google.com/bigquery?savedQuery=YYYY](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sstoried-pixel-469204-d9!2sus-central1!3sce17fffe-b19b-4eec-92c6-11d6c3d619aa!2e1)
+- Task 4 — [Open in BigQuery]([https://console.cloud.google.com/bigquery?savedQuery=ZZZZ](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sstoried-pixel-469204-d9!2sus-central1!3s5ed2029e-c512-47cc-98aa-aa74656c62aa!2e1)
+- Task 5 — [Open in BigQuery]([https://console.cloud.google.com/bigquery?savedQuery=WWWW](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sstoried-pixel-469204-d9!2sus-central1!3sf3f72518-f171-41a1-928a-21a982a210c2!2e1)
 
 
 ---
